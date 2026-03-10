@@ -12,15 +12,16 @@ The data contains information such as program, rank, age, attendance notes / not
 ## Methods
 - Cleaned differences in spelling and capitalizaion of programs and ranks
 - Consolidated ranks for more accurate analysis
+- Utilized histograms by program and color-coded ranks to visualize when quits are more likely to occur. 
 
 ## Results
-Found overall fewer quits at higher ranks with occasional spikes. Spikes occurred at: White, purple/blue, brown/black, and first degree.
+Found overall fewer quits as ranks increase with occasional spikes. Spikes occurred at: White, purple/blue, brown/black, and first degree black belt.
 
 ## Actions recommended following results
-- Have smaller beginner classes for more one-on-one instruction
-- Change sparring curriculum at purple/blue belt to ease transitions
-- Create earlier preperation classes for tests after brown/black
-- Create clear goals and requirements after first degree
+- Have smaller beginner classes for more one-on-one instruction. 
+- Change sparring curriculum at purple/blue belt to ease transitions and reduce quits. 
+- Create earlier preperation classes for large tests at brown/black and student black belts. 
+- Create clear goals and requirements after first degree black belt to encourage long term training.
 
 ## Files
 karate_quit_visual.pbix       - Power BI dashboard to visualize quit trends by rank and year
